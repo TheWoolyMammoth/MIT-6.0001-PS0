@@ -1,0 +1,1 @@
+the point of the program was to get us familiar with Python. the assignment was to have us use a few math operators to get familiar to using those. we used the *print* *input* functions. the instructions also included a few links to documentation. 
